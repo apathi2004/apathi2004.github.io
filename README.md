@@ -22,7 +22,7 @@ Designed and implemented a custom RISC-V processor capable of executing core ins
 
 # Evil Wordle
 
-Repo Link: [https://github.com/apathi2004/Evil-Wordle.git](https://github.com/apathi2004/Evil-Wordle.git)
+Repo Link: <a href="https://github.com/apathi2004/Evil-Wordle.git" target="_blank">GitHub</a>
 
 ### Quick Summary
 Developed a terminal-based version of Evil Wordle where the game dynamically changes the possible secret word to maximize difficulty for the player. The project emphasized algorithm optimization, efficient data structures, and file processing.
@@ -43,7 +43,7 @@ m partitions remaining word possibilities
 
 # Terminal-Based Snake Game
 
-Repo Link: [https://github.com/apathi2004/Snake.git](https://github.com/apathi2004/Snake.git)
+Repo Link: <a href="https://github.com/apathi2004/Snake.git" target="_blank">GitHub</a>
 
 ### Quick Summary
 Built a terminal-based Snake game featuring real-time keyboard controls, collision detection, score tracking, and dynamic game logic. The project focused on event-driven programming and efficient rendering inside a command-line environment.
@@ -62,7 +62,7 @@ Built a terminal-based Snake game featuring real-time keyboard controls, collisi
 
 # Zombies
 
-Repo Link: [https://github.com/apathi2004/Zombies.git](https://github.com/apathi2004/Zombies.git)
+Repo Link: <a href="https://github.com/apathi2004/Zombies.git" target="_blank">GitHub</a>
 
 ### Quick Summary
 Developed a feature-rich zombie survival game with interactive GUI elements, adjustable audio settings, persistent gameplay statistics, and multiple difficulty modes. The project emphasized real-time player interaction, event-driven game mechanics, and user-friendly interface design.
