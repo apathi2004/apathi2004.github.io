@@ -3,7 +3,7 @@
 
 # RISC-V Processor
 
-Repo Link: [https://github.com/apathi2004/RISC_V-Processor.git](https://github.com/apathi2004/RISC_V-Processor.git)
+Repo Link: <a href="https://github.com/apathi2004/RISC_V-Processor.git" target="_blank">GitHub</a>
 
 ### Quick Summary
 Designed and implemented a custom RISC-V processor capable of executing core instruction sets and handling low-level hardware operations. The project focused on computer architecture concepts including instruction decoding, ALU operations, memory access, and pipelined execution.
