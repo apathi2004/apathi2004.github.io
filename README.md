@@ -3,6 +3,8 @@
 
 ## RISC-V Processor
 
+Repo Link: https://github.com/apathi2004/RISC_V-Processor.git
+
 ### Quick Summary
 Designed and implemented a custom RISC-V processor capable of executing core instruction sets and handling low-level hardware operations. The project focused on computer architecture concepts including instruction decoding, ALU operations, memory access, and pipelined execution.
 
@@ -66,6 +68,8 @@ Designed and implemented a custom RISC-V processor capable of executing core ins
 
 # Evil Wordle
 
+Repo Link: 
+
 ### Quick Summary
 Developed a terminal-based version of Evil Wordle where the game dynamically changes the possible secret word to maximize difficulty for the player. The project emphasized algorithm optimization, efficient data structures, and file processing.
 
@@ -127,6 +131,8 @@ Developed a terminal-based version of Evil Wordle where the game dynamically cha
 ---
 
 # Terminal-Based Snake Game
+
+Repo Link: https://github.com/apathi2004/Snake.git
 
 ### Quick Summary
 Built a terminal-based Snake game featuring real-time keyboard controls, collision detection, score tracking, and dynamic game logic. The project focused on event-driven programming and efficient rendering inside a command-line environment.
@@ -238,6 +244,9 @@ Developed a PDF parsing tool capable of extracting and processing text data from
 - Text preprocessing techniques
 - Pattern recognition using regular expressions
 - Working with semi-structured data
+
+
+Repo Link: https://github.com/apathi2004/Zombies.git
 
 ---
 
